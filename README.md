@@ -24,20 +24,9 @@
 
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/-ggplot2-EE1E63?style=for-the-badge&logo=ggplot2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Statsmodels-323330?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Sklearn-0C3C61?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/-Altair-FF4A00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Polars-34495E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Sweetviz-2C3E50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Autoviz-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Dask-282C34?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Vaex-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Datapane-00599C?style=for-the-badge" />
 
 </div>
 
