@@ -10,7 +10,7 @@
 - 🌱 Atualmente cursando **Pós graduação em Ciência de Dados**.  
 - 📊 Foco em **Análise de Dados, Ciência de dados, Python, SQL**.  
 - 📈 Interesse em **Tecnologia**.  
-- 💡 Experiência com **Planejamento Estratégico, Controle de Processos e Distribuição de Energia Elétrica**.
+- 💡 Experiência com **Análise de Dados, Planejamento Estratégico, Controle de Processos e Distribuição de Energia Elétrica**.
 
 ---
 
