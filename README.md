@@ -1,6 +1,6 @@
 ## Olá, eu sou a Juliana Lourenço!
 
-🎓 **Engenheira Eletricista** em transição para a área de **Ciência de Dados**, unindo experiência em engenharia com análise e tratamento de dados para gerar insights estratégicos.  
+🎓 **Engenheira Eletricista** na área de **Ciência de Dados**, unindo experiência em engenharia com análise e tratamento de dados para gerar insights estratégicos.  
 
 📍 Brasil 
 
