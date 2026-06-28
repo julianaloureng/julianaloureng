@@ -1,5 +1,3 @@
-
-[readme(3).md](https://github.com/user-attachments/files/25582602/readme.3.md)
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Juliana%20Lourenço&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Engineer%20|%20Python%20SQL&descAlignY=55&descAlign=50)
